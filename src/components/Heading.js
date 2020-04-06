@@ -25,7 +25,7 @@ export const Heading = () => {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>
             <NavItem>
-              <NavLink href="https://github.com/candrakriswinarto">Github</NavLink>
+              <NavLink href="https://github.com/candraKriswinarto/Covid-19-indo">Github</NavLink>
             </NavItem>
           </Nav>
         </Collapse>
